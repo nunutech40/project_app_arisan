@@ -10,6 +10,8 @@
 <img width="1004" alt="Screenshot 2024-03-06 at 14 24 55" src="https://github.com/nunutech40/project_app_arisan/assets/49187517/5f40211e-1865-4e01-a558-8cbb8bf8e4fc">
 
 * Menggunakan pattern BLOC manual (buat sendiri, memanfaatkan StreamController, StreamSink, dan Stream data)
+<img width="651" alt="Screenshot 2024-03-06 at 14 25 36" src="https://github.com/nunutech40/project_app_arisan/assets/49187517/b3e973c9-966b-4905-a4b9-d1b5434c52e1">
+
 <img width="822" alt="Screenshot 2024-03-06 at 14 25 44" src="https://github.com/nunutech40/project_app_arisan/assets/49187517/05431443-af60-4fde-a2f9-1ac1b33b75f1">
 
 * Fungsi mencari pemenang cuma modal random aja
