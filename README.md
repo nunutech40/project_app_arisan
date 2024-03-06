@@ -1,5 +1,7 @@
-<img width="822" alt="Screenshot 2024-03-06 at 14 25 44" src="https://github.com/nunutech40/project_app_arisan/assets/49187517/8c02a4ec-1fac-45c4-b66c-db745fbc559c">
+
 ## Input peserta
+![Simulator Screenshot - iPhone 15 - 2024-03-06 at 14 23 32](https://github.com/nunutech40/project_app_arisan/assets/49187517/92ec2f9b-4003-4496-8780-4a8dcdd1e11b)
+
 
 ## Find a winner
 ![Simulator Screenshot - iPhone 15 - 2024-03-06 at 14 23 43](https://github.com/nunutech40/project_app_arisan/assets/49187517/6f1ca579-760f-42dd-a01d-43d48afb6147)
